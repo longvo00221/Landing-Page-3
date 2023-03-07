@@ -12,6 +12,7 @@ html,
 body {
     scroll-behavior: smooth;
     box-sizing: border-box;
+    user-select: none;
 }
 body {
     background: #e5e5e5;
